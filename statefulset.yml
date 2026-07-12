@@ -4,7 +4,7 @@ metadata:
   name: mysql
 
 spec:
-  serviceName: mysql
+  serviceName: mysqldb
 
   replicas: 1
 
