@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: shaikmustafa/phpapp:appimage
+          image: 021657748036.dkr.ecr.us-east-1.amazonaws.com/image-repo:app
           ports:
             - containerPort: 80
 
