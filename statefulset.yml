@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: dbcont
-          image: shaikmustafa/phpapp:dbimage
+          image: 021657748036.dkr.ecr.us-east-1.amazonaws.com/image-repo:db
 
           ports:
             - containerPort: 3306
